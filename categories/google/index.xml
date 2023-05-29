@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Blog Site </title>
+    <link>https://tharunj30.github.io/categories/google/</link>
+    <description>Recent content in Google on Blog Site </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tharunj30.github.io/categories/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google IO</title>
+      <link>https://tharunj30.github.io/mainsections/googleio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tharunj30.github.io/mainsections/googleio/</guid>
+      <description>Google I/O 2023: Unveiling the Future of Technology Google I/O is an annual developer conference that brings together developers, creators, and technology enthusiasts from around the world. Held in a spirit of innovation and collaboration, Google I/O is a platform where the tech community comes together to learn, share ideas, and witness groundbreaking announcements. The latest iteration, Google I/O 2023, proved to be a game-changer, offering a glimpse into the future of technology.</description>
+    </item>
+    
+    <item>
+      <title>Latest Tech</title>
+      <link>https://tharunj30.github.io/mainsections/latesttech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tharunj30.github.io/mainsections/latesttech/</guid>
+      <description>Latest Tech News Stay up to date with the latest happenings in the tech world. Here are some recent news highlights:
+1. Google Unveils Pixel 6 and Pixel 6 Pro Smartphones Google recently announced its highly anticipated Pixel 6 and Pixel 6 Pro smartphones. These devices boast powerful processors, advanced camera systems, and a sleek design. With enhanced AI capabilities and the latest Android version, these phones offer an exceptional user experience.</description>
+    </item>
+    
+  </channel>
+</rss>
